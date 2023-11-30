@@ -1,0 +1,6 @@
+
+__pycache__/
+simulation/__pycache__/
+retrieve
+examples/devtest/SimA/config.ini
+dockerenv
